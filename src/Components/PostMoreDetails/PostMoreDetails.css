@@ -1,0 +1,21 @@
+.detailsStyle{
+    width: 800px;
+    margin: 50px;
+    padding: 50px;
+    color:white;
+    background: #009688;
+  
+}
+.detailsStyle h4{
+    text-transform: uppercase;
+}
+.detailsStyle p{
+    text-transform: capitalize;
+}
+.goBackButton{
+    padding:10px 20px;
+    background:transparent;
+    border:1px solid red;
+    outline:none;
+    color:white;
+}
